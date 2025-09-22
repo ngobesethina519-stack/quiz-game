@@ -1,5 +1,4 @@
-//# quiz-game
-// First-year Computer Science student  Learning Python &amp; Java  Aspiring Software Developer
+
 import java.util.Scanner;
 import java.util.Random;  
 
